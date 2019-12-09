@@ -4,7 +4,11 @@
   "description": "A Node Sass stater kit start a new project with SASS.  ",
   "main": "app.js",
   "scripts": {
+<<<<<<< HEAD
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
+=======
+    "compile": "node-sass sass/main.scss css/optin.css -w"
+>>>>>>> 830f5fbe3715b7235a9a3a5fc0ff334526cd5eb2
   },
   "repository": {
     "type": "git",
